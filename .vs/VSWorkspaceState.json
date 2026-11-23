@@ -5,6 +5,8 @@
     "\\docs",
     "\\public",
     "\\public\\css",
+    "\\public\\images",
+    "\\public\\images\\sprites",
     "\\public\\js"
   ],
   "PreviewInSolutionExplorer": false
